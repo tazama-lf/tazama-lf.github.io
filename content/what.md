@@ -1,6 +1,6 @@
 ## What we do at
 
-![](/tazama-org/static/tazama.png)
+![](/tazama.png)
 At Tazama, we offer a comprehensive suite of services designed to enhance the capabilities of Digital Financial Services Providers (DFSPs) in detecting and preventing financial fraud and money laundering. Our services range from readiness assessments and advocacy to building robust Financial Risk Management Systems (FRMS) and providing tailored training. Below, you'll find more about our core offerings.
 
 ## Readiness Assessment

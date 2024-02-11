@@ -1,20 +1,19 @@
 {
   "baseurl": "https://tazama-lf.github.io",
-  "canonifyURLs": false,
+  "canonifyURLs": true,
   "theme": "jane",
   "languageCode": "en",
   "copyright": "Tazama",
   "rssLimit": 100,
   "timeout": 100000,
-  "staticDir": "/content/static",
+  "staticDir": "/content/static/",
   "permalinks": {
-    "post": "/:year/:month/:day/:slug/"
+    "post": "/:year/:slug/"
   },
   "PygmentsUseClasses": true,
   "languages": {
     "en": {
       "title": "Tazama",
-      "url": "/site/",
       "languageName": "English",
       "weight": 1,
       "params": {
@@ -25,7 +24,7 @@
         "main": [
           {
             "name": "Home",
-            "url": "/site/",
+            "url": "/",
             "weight": 20
           },
           {

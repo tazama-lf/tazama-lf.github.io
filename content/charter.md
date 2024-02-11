@@ -1,6 +1,6 @@
 ## Technical Charter
 
-![](/tazama-org/static/tazama.png)
+![](/tazama.png)
 
 **Adopted November 29, 2023**
 

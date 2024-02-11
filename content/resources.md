@@ -1,5 +1,5 @@
 ## Resources
 
-![](/tazama-org/static/tazama.png)
+![](/tazama.png)
 
 COMING SOON

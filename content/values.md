@@ -1,6 +1,6 @@
 ## Our Core Values
 
-![](/tazama-org/static/tazama.png)
+![](/tazama.png)
 
 At Tazama, we are driven by a mission to create a safer, more inclusive financial ecosystem. Funded by the Bill & Melinda Gates Foundation, our open-source software transaction monitoring solution is at the forefront of fraud detection. Our work is underpinned by four foundational values: **Trust, Equity, Knowledge, and Collaboration**.
 

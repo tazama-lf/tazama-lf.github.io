@@ -1,5 +1,5 @@
 ## Contact us
 
-![](/tazama-org/static/tazama.png)
+![](/static/tazama.png)
 
 COMING SOON
