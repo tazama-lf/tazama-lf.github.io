@@ -1,0 +1,98 @@
+{
+  "baseurl": "https://tazama-lf.github.io",
+  "canonifyURLs": false,
+  "theme": "jane",
+  "languageCode": "en",
+  "copyright": "Tazama",
+  "rssLimit": 100,
+  "timeout": 100000,
+  "staticDir": "/content/static",
+  "permalinks": {
+    "post": "/:year/:month/:day/:slug/"
+  },
+  "PygmentsUseClasses": true,
+  "languages": {
+    "en": {
+      "title": "Tazama",
+      "url": "/site/",
+      "languageName": "English",
+      "weight": 1,
+      "params": {
+        "description": "Tazama",
+        "dateFormatToUse": "Jan 2, 2024"
+      },
+      "menu": {
+        "main": [
+          {
+            "name": "Home",
+            "url": "/site/",
+            "weight": 20
+          },
+          {
+            "name": "Charter",
+            "url": "/charter/",
+            "weight": 30
+          },
+          {
+            "name": "Values",
+            "url": "/values/",
+            "weight": 40
+          },
+          {
+            "name": "Who we are",
+            "url": "/people/",
+            "weight": 50
+          },
+          {
+            "name": "What we do",
+            "url": "/what/",
+            "weight": 60
+          },
+          {
+            "name": "Who we work with",
+            "url": "/partners/",
+            "weight": 70
+          },
+          {
+            "name": "Resources",
+            "url": "/resources/",
+            "weight": 80
+          },
+          {
+            "name": "Contact",
+             "url": "/contact/",
+            "weight": 90
+          }
+        ]
+      }
+    }
+  },
+  "minify": {
+    "tdewolff": {
+      "xml": {
+        "keepWhitespace": true
+      }
+    }
+  },
+  "outputs": {
+    "page": [
+      "html",
+      "markdown"
+    ]
+  },
+  "params": {
+    "rssFullContent": true,
+    "customCSS": [
+      "center-img.css"
+    ],
+    "author": {
+      "name": "Tazama",
+      "email": "operations@ekuta.com"
+    },
+    "social": {
+      "a-email": "operations@ekuta.com",
+      "b-github": "https://github.com/frmscoe"
+    },
+    "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\" >Privacy policy</a>"
+  }
+}
