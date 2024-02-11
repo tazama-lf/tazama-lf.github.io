@@ -1,3 +1,7 @@
+---
+title: "Contact"
+---
+
 ## Contact us
 
 ![](/static/tazama.png)

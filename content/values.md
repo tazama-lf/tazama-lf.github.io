@@ -1,3 +1,7 @@
+---
+title: "Values"
+---
+
 ## Our Core Values
 
 ![](/tazama.png)

@@ -1,12 +1,10 @@
 {
-  "baseurl": "https://tazama-lf.github.io",
-  "canonifyURLs": true,
+  "baseurl": "https://tazama-lf.github.io/",
   "theme": "jane",
   "languageCode": "en",
   "copyright": "Tazama",
   "rssLimit": 100,
   "timeout": 100000,
-  "staticDir": "/content/static/",
   "permalinks": {
     "post": "/:year/:slug/"
   },
@@ -34,7 +32,7 @@
           },
           {
             "name": "Values",
-            "url": "/values/",
+            "url": "/values",
             "weight": 40
           },
           {

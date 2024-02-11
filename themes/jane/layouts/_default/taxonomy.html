@@ -36,11 +36,11 @@
       <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
         {{ .Date | time.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
       </time>
-      <span class="archive-post-title">
+      <!--  <span class="archive-post-title">
         <a href="{{ .RelPermalink }}" class="archive-post-link">
           {{ .Title }}
         </a>
-      </span>
+      </span> -->
     </div>
   {{ end }}
 </section>

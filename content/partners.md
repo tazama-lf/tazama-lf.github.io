@@ -1,3 +1,7 @@
+---
+title: "Partners"
+---
+
 ## Who we work with at
 
 ![](/tazama.png)

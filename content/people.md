@@ -1,3 +1,7 @@
+---
+title: "People"
+---
+
 ## Who we are at
 
 ![](/tazama.png)

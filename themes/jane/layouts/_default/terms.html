@@ -28,11 +28,11 @@
               <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
                 {{ .Date.Format "2006-01-02" }}
               </time>
-              <span class="archive-post-title">
+           <!--     <span class="archive-post-title">
                 <a href="{{ .RelPermalink }}" class="archive-post-link">
                   {{ .Title }}
                 </a>
-              </span>
+              </span> -->
             </div>
           {{ end }}
           {{ if gt (len $pages) 5 }}
@@ -99,11 +99,11 @@
               <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
                 {{ .Date.Format "2006-01-02" }}
               </time>
-              <span class="archive-post-title">
+             <!--   <span class="archive-post-title">
                 <a href="{{ .RelPermalink }}" class="archive-post-link">
                   {{ .Title }}
                 </a>
-              </span>
+              </span> -->
             </div>
           {{ end }}
           {{ if gt (len $pages) 5 }}
@@ -134,9 +134,9 @@
                 {{ .Date.Format "2006-01-02" }}
               </time>
               <span class="archive-post-title">
-                <a href="{{ .RelPermalink }}" class="archive-post-link">
+               <!--  <a href="{{ .RelPermalink }}" class="archive-post-link">
                   {{ .Title }}
-                </a>
+                </a> -->
               </span>
             </div>
           {{ end }}
