@@ -4,6 +4,6 @@ title: "Contact"
 
 ## Contact us
 
-![](/static/tazama.png)
+![](/tazama.png)
 
-COMING SOON
+COMING SOON!

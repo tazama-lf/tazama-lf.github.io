@@ -59,6 +59,12 @@
             "name": "Contact",
              "url": "/contact/",
             "weight": 90
+          },
+          {
+            "name": "Join",
+            "url": "/contact/join",
+            "weight": 90,
+            "parent":  "Contact"
           }
         ]
       }
