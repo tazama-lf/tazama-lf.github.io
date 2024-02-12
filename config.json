@@ -99,18 +99,18 @@
       "email": "operations@ekuta.com"
     },
     "social": {
-      "a-email": "operations@ekuta.com",
-      "b-github": "https://github.com/frmscoe"
+      "email": "operations@ekuta.com",
+      "github": "https://github.com/frmscoe"
     },
-    "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\" >Privacy policy</a>"
+    "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>"
   },
   "markup": {
-     "goldmark": {
-        "renderer": {
-           "hardWraps": false,
-           "unsafe": true,
-           "xhtml": false
-        }
-     }
+    "goldmark": {
+      "renderer": {
+        "hardWraps": false,
+        "unsafe": true,
+        "xhtml": false
+      }
+    }
   }
 }

@@ -1,24 +1,23 @@
-{{/* This file show footer social icons */}}
+{{/* This file shows footer social icons without slicing names */}}
 
 {{- range $name, $path := .Site.Params.social }}
-  {{/* social icons */}}
+  {{/* Ensure social icons directly match file names */}}
   {{- if $path }}
-    {{- $realName := slicestr $name 2 }}
-    {{- $filePath := (print "svg/" $realName ".svg") }}
+    {{- $filePath := (print "svg/" $name ".svg") }}
     <a href="{{ $path | safeURL }}" rel="me noopener" class="iconfont"
-      title="{{ $realName }}" {{ if not (hasPrefix $path "mailto:") }} target="_blank"
+      title="{{ $name }}" {{ if not (hasPrefix $path "mailto:") }} target="_blank"
       {{ end }}>
-      {{ partial $filePath }}
+      {{ partial $filePath . }}
     </a>
   {{- end }}
 {{- end }}
 
-{{/* RSS icon  */}}
+{{/* RSS icon */}}
 {{ with .Site.GetPage "home" -}}
   {{- with .OutputFormats.Get "RSS" -}}
   <a href="{{ .Permalink }}" rel="noopener {{ .Rel }}" type="{{ .MediaType.Type }}"
     class="iconfont" title="rss" target="_blank">
-    {{ partial "svg/rss.svg" }}
+    {{ partial "svg/rss.svg" . }}
   </a>
   {{ end -}}
 {{- end -}}
