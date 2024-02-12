@@ -6,4 +6,7 @@ title: "Resources"
 
 ![](/tazama.png)
 
-COMING SOON
+Here are some of the resources to learn more
+
+- [GitHub](https://github.com/frmscoe)
+- [Documentation](https://frmscoe.atlassian.net/wiki/spaces/FRMS/pages/6488065/Product+Overview)

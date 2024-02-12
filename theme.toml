@@ -1,4 +1,5 @@
 name = "Tazama"
+theme = "jane"
 license = "Apache"
 licenselink = "https://github.com/tazama-lf/blob/master/LICENSE"
 description = "website"

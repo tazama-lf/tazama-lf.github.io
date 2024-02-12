@@ -1,7 +1,7 @@
 {
   "baseurl": "https://tazama-lf.github.io/",
-  "theme": "jane",
   "languageCode": "en",
+  "theme": "jane",
   "copyright": "Tazama",
   "rssLimit": 100,
   "timeout": 100000,
