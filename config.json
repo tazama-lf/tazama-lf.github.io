@@ -106,50 +106,6 @@
   },
   "markup": {
      "goldmark": {
-        "extensions": {
-           "cjk": {
-              "eastAsianLineBreaks": false,
-              "eastAsianLineBreaksStyle": "simple",
-              "enable": false,
-              "escapedSpace": false
-           },
-           "definitionList": true,
-           "footnote": true,
-           "linkify": true,
-           "linkifyProtocol": "https",
-           "passthrough": {
-              "delimiters": {
-                 "block": [],
-                 "inline": []
-              },
-              "enable": false
-           },
-           "strikethrough": true,
-           "table": true,
-           "taskList": true,
-           "typographer": {
-              "apostrophe": "\u0026rsquo;",
-              "disable": false,
-              "ellipsis": "\u0026hellip;",
-              "emDash": "\u0026mdash;",
-              "enDash": "\u0026ndash;",
-              "leftAngleQuote": "\u0026laquo;",
-              "leftDoubleQuote": "\u0026ldquo;",
-              "leftSingleQuote": "\u0026lsquo;",
-              "rightAngleQuote": "\u0026raquo;",
-              "rightDoubleQuote": "\u0026rdquo;",
-              "rightSingleQuote": "\u0026rsquo;"
-           }
-        },
-        "parser": {
-           "attribute": {
-              "block": false,
-              "title": true
-           },
-           "autoHeadingID": true,
-           "autoHeadingIDType": "github",
-           "wrapStandAloneImageWithinParagraph": true
-        },
         "renderer": {
            "hardWraps": false,
            "unsafe": true,
