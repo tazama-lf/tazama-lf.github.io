@@ -8,7 +8,7 @@
   "permalinks": {
     "post": "/:year/:slug/"
   },
-  "PygmentsUseClasses": true,
+  "PygmentsUseClasses": false,
   "languages": {
     "en": {
       "title": "Tazama",
@@ -16,7 +16,20 @@
       "weight": 1,
       "params": {
         "description": "Tazama",
-        "dateFormatToUse": "Jan 2, 2024"
+        "dateFormatToUse": "Jan 2, 2024",
+        "navbar": {
+          "displayTitle": false,
+          "displayLogo": true,
+          "logo": {
+            "path": "images/logo.svg",
+            "dark": "images/logo-dark.svg",
+            "link": "/",
+            "width": 140,
+            "height": 120
+          }
+        },
+        "disableToc": false,
+        "disableTitlePage": false
       },
       "menu": {
         "main": [
@@ -90,19 +103,32 @@
     ]
   },
   "params": {
-    "rssFullContent": true,
+    "rssFullContent": false,
     "customCSS": [
       "center-img.css"
     ],
     "author": {
       "name": "Tazama",
-      "email": "operations@ekuta.com"
+      "email": "operations@tazama.org"
     },
     "social": {
-      "email": "operations@ekuta.com",
+      "email": "operations@tazama.org",
       "github": "https://github.com/frmscoe"
     },
-    "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>"
+    "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>",
+    "navbar": {
+      "displayTitle": false,
+      "displayLogo": true,
+      "logo": {
+        "path": "/logo.svg",
+        "dark": "/logo-dark.svg",
+        "link": "/",
+        "width": 40,
+        "height": 20
+      }
+    },
+    "disableToc": false,
+    "disableTitlePage": true
   },
   "markup": {
     "goldmark": {
