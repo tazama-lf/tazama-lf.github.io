@@ -21,8 +21,8 @@
           "displayTitle": false,
           "displayLogo": true,
           "logo": {
-            "path": "images/logo.svg",
-            "dark": "images/logo-dark.svg",
+            "path": "/logo.svg",
+            "dark": "/logo-dark.svg",
             "link": "/",
             "width": 140,
             "height": 120
