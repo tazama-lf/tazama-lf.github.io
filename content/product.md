@@ -8,13 +8,13 @@ With our products can stop fraud in real time before it happens.  By real time, 
 
 ### Tazama
 
-# Trnsaction Monitoring System
+# Transaction Monitoring System
 
-| ## Real-time   | # Transaction monitoring is performed in real-time
-|                |`- Evaluate transactions before they are completed
-|                | - Prevent fraudulent transactions without degrading performance
-| ## Rules-based | # Designed with fledgling anti-fraud operations in mind, transactions are evaluated by a variety or rule processors that organizes detected behaviour into typologies
-|                | - Rules are discrete code modules that perform a single evaluation task
-|                | - Rules are parameterised via configuration files external to the rule code
-|                | - Rules deliver clear and explainable assessments for the behaviour witnessed in a transaction
-|                | - Rules can be enhanced with complex scripting
+ ## Real-time    # Transaction monitoring is performed in real-time
+                `- Evaluate transactions before they are completed
+                 - Prevent fraudulent transactions without degrading performance
+ ## Rules-based  # Designed with fledgling anti-fraud operations in mind, transactions are evaluated by a variety or rule processors that organizes detected behaviour into typologies
+                 - Rules are discrete code modules that perform a single evaluation task
+                 - Rules are parameterised via configuration files external to the rule code
+                 - Rules deliver clear and explainable assessments for the behaviour witnessed in a transaction
+                 - Rules can be enhanced with complex scripting
