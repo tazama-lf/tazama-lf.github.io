@@ -25,7 +25,31 @@ With our products can stop fraud in real time before it happens.  By real time, 
 - Rule and typology are configurable via configuration files located outside the rule processor code
 
  **API-driven**  
-- Interaction with EKUTA is via RESTful APIs
+- Interaction with Tazama8 is via RESTful APIs
 - ISO20022 messages are submitted as JSON-formatted objects
 - Responses are returned via API once the evaluation is complete
 - Evaluation data and message history can be retrieved via API by your in-house CMS
+
+## Typologies and advocacy
+
+ **More than 280 typologies**    
+ Curated from a project by Deloitte Africa for the Bill & Melida Gates Foundation
+- ~30 Mainstream typologies provided as anexample
+- Members and users have acces to them all and more
+- Coming soon, collaboration, shared experiences, a standards body for how to customise Tazama for your needs
+
+**More than payments**
+Although we started in the payment space - we work about anywhere!
+- Insurance
+- Supply Chain
+- Ethics
+- etc.
+
+**Our advocacy**
+We willl help you:
+- Use
+- Enhance
+- Extend
+- Embed
+- Our solution
+- We can help you with how we fit into a complete compliance solutiion
