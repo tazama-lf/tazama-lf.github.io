@@ -8,7 +8,7 @@ title: "Join us"
 
 # Join the Tazama Project Committees: A Call to Action
 
-At Tazama, we have several groups that are open for you to join and seeing collaborators.
+At Tazama, we have several groups that are open for you to join and meet with other collaborators.
 
 ## Technical Steering Committee (TSC)
 
