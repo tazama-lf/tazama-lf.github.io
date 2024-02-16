@@ -64,25 +64,30 @@
             "weight": 70
           },
           {
+            "name": "Products",
+            "url": "/product/",
+            "weight":80
+            },
+          {
             "name": "Resources",
             "url": "/resources/",
-            "weight": 80
+            "weight": 90
           },
           {
             "name": "Contact",
              "url": "/contact/",
-            "weight": 90
+            "weight": 100
           },
           {
             "name": "Join",
             "url": "/contact/join",
-            "weight": 90,
+            "weight": 100,
             "parent":  "Contact"
           },
           {
             "name": "Calendar",
             "url": "/contact/Calendar",
-            "weight": 90,
+            "weight": 100,
             "parent":  "Contact"
           }
         ]
