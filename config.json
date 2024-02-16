@@ -67,7 +67,7 @@
             "name": "Products",
             "url": "/product/",
             "weight":80
-            },
+          },
           {
             "name": "Resources",
             "url": "/resources/",
