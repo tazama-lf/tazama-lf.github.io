@@ -12,9 +12,20 @@ With our products can stop fraud in real time before it happens.  By real time, 
  Transaction monitoring is performed in real-time
 - Evaluate transactions before they are completed
 - Prevent fraudulent transactions without degrading performance
+
  **Rules-based**  
  Designed with fledgling anti-fraud operations in mind, transactions are evaluated by a variety or rule processors that organizes detected behaviour into typologies
 - Rules are discrete code modules that perform a single evaluation task
 - Rules are parameterised via configuration files external to the rule code
 - Rules deliver clear and explainable assessments for the behaviour witnessed in a transaction
 - Rules can be enhanced with complex scripting
+
+ **Configurable**  
+- Authorised users can configure detection behaviour without changing the processor code
+- Rule and typology are configurable via configuration files located outside the rule processor code
+
+ **API-driven**  
+- Interaction with EKUTA is via RESTful APIs
+- ISO20022 messages are submitted as JSON-formatted objects
+- Responses are returned via API once the evaluation is complete
+- Evaluation data and message history can be retrieved via API by your in-house CMS
