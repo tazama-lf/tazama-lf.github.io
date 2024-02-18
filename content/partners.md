@@ -4,7 +4,7 @@ title: "Partners"
 
 ## Who we work with at
 
-![](/who_2.png)
+![](/who_3.png)
 
 At Tazama, we collaborate with a diverse range of stakeholders, leveraging our collective strengths to create robust, scalable solutions for fraud detection and prevention. Our partners include central banks, government ministries, regional economic communities, the private sector, and other key stakeholders. Here’s a closer look at our collaborative ecosystem.
 
