@@ -1,12 +1,15 @@
 ## Our products
 
-![](/design.jpg)
+![](/bad_guy_sm.png)
 
 The level 1 principal told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
 
 With our products can stop fraud in real time before it happens.  By real time, we mean thousands of transactions per second, not just faster than batch.  Many systems do analytics and find consortiums of people with ill intent at work within a bank or across organizations.  This is extremely valuable and helps regulators and police get these bad actors out of the system, but the financial damage to the person who was defrauded already happened.  The damage is done, to all stakeholders.
 
 ## Tazama Transaction Monitoring System
+
+![](/design.jpg)
+![](/event.png)
 
  **Real-time**    
  Transaction monitoring is performed in real-time
@@ -31,6 +34,8 @@ With our products can stop fraud in real time before it happens.  By real time, 
 - Evaluation data and message history can be retrieved via API by your in-house CMS
 
 ## Typologies and advocacy
+
+![](/phishing.png)
 
  **More than 280 typologies**    
  Curated from a project by Deloitte Africa for the Bill & Melida Gates Foundation
