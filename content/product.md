@@ -1,6 +1,6 @@
 ## Our products
 
-![](/bad_guy_sm.png)
+![](/bad_guy_sm_2.png)
 
 The level 1 principal told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
 
@@ -9,7 +9,7 @@ With our products can stop fraud in real time before it happens.  By real time, 
 ## Tazama Transaction Monitoring System
 
 ![](/design.jpg)
-![](/event.png)
+![](/event_sm.png)
 
  **Real-time**    
  Transaction monitoring is performed in real-time
