@@ -6,7 +6,7 @@ title: "Resources"
 
 ![](/tazama.png)
 
-Here are some of the resources to learn more
+Here are some of our resources to learn more
 
 - [Documentation](https://github.com/frmscoe)
 - [GitHub](https://github.com/frmscoe)

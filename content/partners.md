@@ -2,7 +2,7 @@
 title: "Partners"
 ---
 
-## Who we work with at
+## Who we work with
 
 ![](/who_3.png)
 
