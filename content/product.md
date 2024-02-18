@@ -1,6 +1,6 @@
 ## Our products
 
-![](/tazama.png)
+![](/design.png)
 
 The level 1 principal told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
 
