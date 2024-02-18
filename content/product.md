@@ -39,7 +39,7 @@ With our products can stop fraud in real time before it happens.  By real time, 
 
  **More than 280 typologies**    
  Curated from a project by Deloitte Africa for the Bill & Melida Gates Foundation
-- ~30 Mainstream typologies provided as anexample
+- ~30 Mainstream typologies provided as an example
 - Members and users have acces to them all and more
 - Coming soon, collaboration, shared experiences, a standards body for how to customise Tazama for your needs
 
