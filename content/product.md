@@ -1,8 +1,8 @@
 ## Our products
 
-![](/bad_guy_sm_2.png)
+![](/bad_guy_rsm.png)
 
-The level 1 principal told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
+The level 1 principle told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
 
 With our products can stop fraud in real time before it happens.  By real time, we mean thousands of transactions per second, not just faster than batch.  Many systems do analytics and find consortiums of people with ill intent at work within a bank or across organizations.  This is extremely valuable and helps regulators and police get these bad actors out of the system, but the financial damage to the person who was defrauded already happened.  The damage is done, to all stakeholders.
 
@@ -32,6 +32,22 @@ With our products can stop fraud in real time before it happens.  By real time, 
 - ISO20022 messages are submitted as JSON-formatted objects
 - Responses are returned via API once the evaluation is complete
 - Evaluation data and message history can be retrieved via API by your in-house CMS
+
+## Core Components
+
+![](/tazama-core-components.png)
+
+The Tazama software has a number of key components that have been selected and architected to allow maximum flexibility, ensure data protection, and reduced operational costs for high performance at scale. They are the:
+
+- Transaction Monitoring Service API
+- Channel Router and Setup Processor (CRSP)
+- Rules Processor
+- Typology Processor
+- Transaction Aggregator and Decision Processor (TADProc)
+
+Read the documentation for more detail.
+
+![](/document.png)[Documentation](https://github.com/frmscoe/docs/tree/main)
 
 ## Typologies and advocacy
 
