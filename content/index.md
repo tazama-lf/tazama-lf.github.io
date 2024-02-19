@@ -5,4 +5,5 @@ description: "Tazama"
 
 ![](/lady_magnifier.png)
 
-### Open-Source Transaction Monitoring Software Promoting advocacy for trust in digital ecosystems.
+### Open-Source Transaction Monitoring Software. 
+### Advocacy for financial crime systems.
