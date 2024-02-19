@@ -9,7 +9,7 @@ With our products can stop fraud in real time before it happens.  By real time, 
 ## Tazama Transaction Monitoring System
 
 ![](/design.jpg)
-![](/event_sm.png)
+![](/event2.png)
 
  **Real-time**    
  Transaction monitoring is performed in real-time
