@@ -47,7 +47,7 @@ The Tazama software has a number of key components that have been selected and a
 
 Read the documentation for more detail.
 
-![](/document.png)[Documentation](https://github.com/frmscoe/docs/tree/main)
+![](/document2.png)[Documentation](https://github.com/frmscoe/docs/tree/main)
 
 ## Typologies and advocacy
 
