@@ -2,11 +2,11 @@ name = "Tazama"
 license = "Apache"
 licenselink = "https://github.com/tazama-lf/blob/master/LICENSE"
 description = "website"
-homepage = "https://tazama-lf.github.io"
-demosite = "https://tazama-lf.github.io"
+homepage = "http://tazama.org/"
+demosite = "http://tazama.org/"
 tags = [""]
 min_version = "0.20"
 
 [author]
   name = "Tazama"
-  homepage = "https://tazama-lf.github.io"
+  homepage = "http://tazama.org/"
