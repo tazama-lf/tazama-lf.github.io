@@ -1,5 +1,5 @@
 {
-  "baseurl": "http://tazama.org/",
+  "baseurl": "https://tazama-lf.github.io/",
   "languageCode": "en",
   "theme": "jane",
   "copyright": "Tazama",
@@ -33,11 +33,6 @@
       },
       "menu": {
         "main": [
-          {
-            "name": "Home",
-            "url": "/",
-            "weight": 20
-          },
           {
             "name": "Charter",
             "url": "/charter/",
