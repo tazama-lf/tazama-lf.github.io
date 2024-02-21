@@ -112,8 +112,8 @@
       "email": "operations@tazama.org"
     },
     "social": {
-      "email": "operations@tazama.org",
-      "slack": "slack.tazama.org",
+      "slack": "https://www.slack.tazama.org",
+      "email": "mailto:operations@tazama.org",
       "github": "https://github.com/frmscoe"
     },
     "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>",

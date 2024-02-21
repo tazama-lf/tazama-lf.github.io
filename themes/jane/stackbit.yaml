@@ -34,7 +34,7 @@ models:
       - type: number
         name: paginate
         label: Paginate
-        description:  Number of articles displayed on the homepage
+        description: Number of articles displayed on the homepage
       - type: number
         name: rssLimit
         label: Rss Limit
@@ -221,8 +221,8 @@ models:
                 name: k-pocket
                 label: Pocket
               - type: string
-                name: l-tumblr
-                label: Tumblr
+                name: l-slack
+                label: Slack
               - type: string
                 name: m-instagram
                 label: Instagram
