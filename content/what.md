@@ -24,7 +24,7 @@ Tazama is at the forefront of policy, and regulation. We work with policymakers,
 
 - **Policy Development:** Assisting in the formulation of robust policies to deter financial crimes.
 
-![](/compliance.png)
+![](/compliance_med.png)
 ## Work with you to Build FinCime Systems
 
 How does our Transaction Monitoring Systems (TMS) fit into your organization’s entire FinCrime solution. Systems are designed to:
