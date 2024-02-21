@@ -113,6 +113,7 @@
     },
     "social": {
       "email": "operations@tazama.org",
+      "slack": "slack.tazama.org",
       "github": "https://github.com/frmscoe"
     },
     "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>",

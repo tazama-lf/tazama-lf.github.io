@@ -6,6 +6,8 @@ title: "Join us"
 
 ![](/tazama.png)
 
+Start a discussion with us on [slack](slack.tazama.org)
+
 # Join the Tazama Project Committees: A Call to Action
 
 At Tazama, we have several groups that are open for you to join and meet with other collaborators.
