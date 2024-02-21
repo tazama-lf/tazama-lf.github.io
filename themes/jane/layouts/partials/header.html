@@ -12,23 +12,24 @@
     {{ $navWidth = "max-w-full" -}}
   {{ end -}}
 {{- end -}}
-<div class="logo-wrapper">
-  <a href="{{ "/" | relLangURL }}" class="logo">
-    {{ if .Site.Params.logoTitle }}
-      {{ .Site.Params.logoTitle | safeHTML }}
-    {{ else }}
-    <img class="block dark:hidden" src="{{ $logoPath | relURL }}" height="{{ $logoHeight }}" width="{{ $logoWidth }}" />
-    {{ end }}
-  </a>
-</div>
-
-<nav class="site-navbar">
+<nav class="site-navbar {{ $navWidth }}">
   <ul id="menu" class="menu">
+    <!-- Logo as the first menu item -->
+    <li class="menu-item logo-item">
+      <a href="{{ $logoLink | relLangURL }}" class="logo">
+        {{ if .Site.Params.logoTitle }}
+          {{ .Site.Params.logoTitle | safeHTML }}
+        {{ else }}
+          <img src="{{ $logoPath | relURL }}" alt="Logo" height="{{ $logoHeight }}" width="{{ $logoWidth }}" class="block dark:hidden" />
+        {{ end }}
+      </a>
+    </li>
+
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-        <li class="menu-item{{ if $currentPage.IsMenuCurrent "main" . }} active{{end}}">
+      <li class="menu-item{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
         {{ if .HasChildren }}
-          <!-- drop down navigation MENU -->
+          <!-- Dropdown navigation MENU -->
           <a class="menu-item-link menu-parent" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
           <ul class="submenu">
             {{ range .Children }}
@@ -37,36 +38,23 @@
               </li>
             {{ end }}
           </ul>
-
         {{ else }}
-          <!-- normal MENU -->
-          {{ if hasPrefix .URL "http" }}
-            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}" rel="noopener" target="_blank">
-              {{ .Name }}
-              {{/* icon new window */}}
-              <i class="iconfont">
-                {{ partial "svg/new_window.svg" }}
-              </i>
-            </a>
-          {{ else }}
-            <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">{{ .Name }}</a>
-          {{ end }}
-
-        {{ end  }}
-
+          <!-- Normal MENU -->
+          <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}">
+            {{ .Name }}
+            {{ if hasPrefix .URL "http" }}
+              <i class="iconfont">{{ partial "svg/new_window.svg" }}</i>
+            {{ end }}
+          </a>
+        {{ end }}
       </li>
     {{ end }}
 
-    {{/* language chooser */}}
-    {{ if and (gt (len .Site.Home.AllTranslations) 1) (.Site.Params.showMenuLanguageChooser | default false ) }}
-      {{- $.Scratch.Set "language" .Language -}}
+    <!-- Language chooser -->
+    {{ if and (gt (len .Site.Home.AllTranslations) 1) (.Site.Params.showMenuLanguageChooser | default false) }}
       <li class="menu-item">
-        <!-- drop down navigation MENU -->
         <a class="menu-item-link menu-parent menu-item-lang" href="#">
-          {{/* icon globe */}}
-          <i class="iconfont">
-            {{ partial "svg/globe.svg" }}
-          </i>
+          <i class="iconfont">{{ partial "svg/globe.svg" }}</i>
           {{ .Site.Language.LanguageName }}
         </a>
         <ul class="submenu">
@@ -81,12 +69,11 @@
       </li>
     {{ end }}
 
+    <!-- Google search -->
     {{ if .Site.Params.search.google.enable }}
       <li class="menu-item">
         <a id="openSearch" class="menu-item-link menu-item-search" href="#">
-          <i class="iconfont">
-            {{ partial "svg/search.svg" }}
-          </i>
+          <i class="iconfont">{{ partial "svg/search.svg" }}</i>
         </a>
       </li>
     {{ end }}

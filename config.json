@@ -34,11 +34,6 @@
       "menu": {
         "main": [
           {
-            "name": "Home",
-            "url": "/",
-            "weight": 20
-          },
-          {
             "name": "Charter",
             "url": "/charter/",
             "weight": 30
