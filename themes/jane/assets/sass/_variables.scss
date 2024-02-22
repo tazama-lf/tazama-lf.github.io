@@ -9,7 +9,7 @@ $theme-color-config: 'Default';
 
 // Default theme color map
 $theme-color-map: (
-  'Default': #c05b4d #f8f5ec,
+  'Default': #51be99 #f8f5ec,
   'Mint Green': #16982B #f5f5f5,
   'Cobalt Blue': #0047AB #f0f2f5,
   'Hot Pink': #FF69B4 #f8f5f5,
@@ -171,7 +171,7 @@ $content-table-border-color: darken($deputy-color, 3%) !default;
 
 // ========== Code ========== //
 // Color of the code.
-$code-color: #c7254e !default;
+$code-color: #51be99 !default;
 
 // Font size of code.
 $code-font-size: 0.9em !default;
@@ -187,8 +187,8 @@ $code-highlight-color: (
   number: #2aa198,
   title: #268bd2,
   attribute: #b58900,
-  symbol: #cb4b16,
-  built_in: #dc322f,
+  symbol: #51be99,
+  built_in: #51be99,
   formula: #eee8d5
 ) !default;
 
