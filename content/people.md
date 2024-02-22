@@ -37,16 +37,3 @@ At Deloitte, Justus attended client projects for the South African Reserve Bank 
 My appointment onto the International Compliance Association (ICA) Global Practitioner Advisory Board provides a phenomenal platform to contribute to my profession on a global stage. Regulatory Technology is my passion.
 
 I have deep experience across numerous countries across Africa, Europe, Middle East and the UK and US. Deep knowledge of FCPA, UK Bribery Act and UK Criminal Finances Act.
-
-<section id="introduction" class="u-text-left">
-  <div class="section-content">
-    <div class="wrapper">
-      <div class="header">
-        <p>
-                    {{ site.data.people.people_description }}
-        </p>
-      </div>
-    </div>
-
-  </div>
-</section>

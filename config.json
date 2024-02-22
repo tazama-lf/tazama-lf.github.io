@@ -1,5 +1,5 @@
 {
-  "baseurl": "https://tazama-lf.github.io/",
+  "baseurl": "https://tazama.org/",
   "languageCode": "en",
   "theme": "jane",
   "copyright": "Tazama",
@@ -33,11 +33,6 @@
       },
       "menu": {
         "main": [
-          {
-            "name": "Home",
-            "url": "/",
-            "weight": 20
-          },
           {
             "name": "Charter",
             "url": "/charter/",
@@ -117,7 +112,8 @@
       "email": "operations@tazama.org"
     },
     "social": {
-      "email": "operations@tazama.org",
+      "slack": "https://www.slack.tazama.org",
+      "email": "mailto:operations@tazama.org",
       "github": "https://github.com/frmscoe"
     },
     "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>",
