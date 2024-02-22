@@ -5,7 +5,7 @@ description: "Tazama"
 
 ![](/hacker3.png)
 
-### Open-Source Transaction Monitoring Software. Advocacy for anti-financial crime systems.
+### Open-Source Transaction Monitoring Software
 
 **Building trust in your financial ecosystem!**
 
