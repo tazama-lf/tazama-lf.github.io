@@ -26,4 +26,4 @@ Our approach is rooted in deep knowledge of the complexities of financial fraud 
 
 No single entity can combat financial fraud alone. Collaboration is key to our strategy, involving partnerships across financial institutions, regulatory bodies, technology partners, and the global community. Tazama values the power of working together to share resources, knowledge, and strategies for a comprehensive defense against financial crime.
 
-#### By embodying these values, Tazama strives to create a world where financial transactions are secure, inclusive, and equitable for everyone.
+#### By embodying these values, Tazama strives to create a world where financial transactions are safe, inclusive, and equitable for everyone.
