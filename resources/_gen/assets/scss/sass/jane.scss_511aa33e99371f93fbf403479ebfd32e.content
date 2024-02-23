@@ -523,7 +523,7 @@ h6 {
 }
 
 .header .site-navbar .menu .menu-item:hover {
-  border-bottom: 2px solid #51be99
+  border-bottom: 2px solid #51be99;
   color: #51be99
 }
 
