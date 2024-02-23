@@ -496,7 +496,8 @@ h6 {
 }
 
 .header .site-navbar {
-  margin-left: auto
+  margin-left: auto;
+  height: 2em
 }
 
 .header .site-navbar ul {
