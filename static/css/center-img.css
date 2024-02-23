@@ -10,7 +10,8 @@ small[itemprop="caption"] {
 	text-align: center;
 }
 
-.header {
+.header .site-navbar {
+  margin-left: auto;
   height: 2em
 }
 
