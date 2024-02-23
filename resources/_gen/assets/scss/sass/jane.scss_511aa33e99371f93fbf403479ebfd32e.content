@@ -522,7 +522,9 @@ h6 {
   position: relative
 }
 
-
+.header .site-navbar .menu .menu-item:hover {
+  border-bottom: 2px solid #51be99
+}
 
 .header .site-navbar .menu .menu-item:hover .menu-item-link {
   color: #51be99
@@ -530,7 +532,6 @@ h6 {
 
 .header .site-navbar .menu .menu-item .menu-item-link {
   display: flex;
-  align-items: center;
   height: 100%
 }
 
