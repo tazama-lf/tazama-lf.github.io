@@ -519,6 +519,7 @@ h6 {
 }
 
 .header .site-navbar .menu .menu-item:hover {
+  border-bottom: 2px solid #51be99
 }
 
 .header .site-navbar .menu .menu-item:hover .menu-item-link {
@@ -640,7 +641,6 @@ h6 {
 .content-wrapper .toc a:hover,
 .content-wrapper .toc a:focus {
   color: #51be99;
-  border-bottom: 1px solid #51be99
 }
 
 .content-wrapper .toc ul,
