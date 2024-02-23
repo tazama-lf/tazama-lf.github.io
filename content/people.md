@@ -6,15 +6,17 @@ title: "People"
 
 ![](/tazama.png)
 
-![](/people/greg.png)
+![](/people/greg-color.png)
 
 ### GREG MCCORMICK
 
 #### Executive Director
 
-Greg McCormick is a 30 year tech industry veteran having founded various companies, has been involved in turnarounds, and the C suite at the corporate level. Starting out as a network engineer, developer, and architect he has held various roles including CEO, CTO, and worked in various executive-level strategy, design, and business development roles. He is focused on financial systems for the poor and how to protect emerging markets by providing trust in the financial system. Mr. McCormick was previously on the Technical Governance Board for Mojaloop, a reference model for payment interoperability, that can be used to overcome barriers that have slowed the spread of digital financial services. He currently leads the fraud workstream for Mojaloop. Mr. McCormick leads a yet-to-be-named non-profit that produces the OSS Fraud Risk Management System providing knowledge and tools to solve financial crime and improve financial inclusion.
+Greg McCormick is a 30 year tech industry veteran having founded various companies, has been involved in turnarounds, and the C suite at the corporate level. Starting out as a network engineer, developer, and architect he has held various roles including CEO, CTO, and worked in various executive-level strategy, design, and business development roles. He is focused on financial systems for the poor and how to protect emerging markets by providing trust in the financial system.
 
-![](/people/justus.png)
+Mr. McCormick was previously on the Technical Governance Board for Mojaloop, a reference model for payment interoperability, that can be used to overcome barriers that have slowed the spread of digital financial services. He currently leads the fraud workstream for Mojaloop. Mr. McCormick leads a yet-to-be-named non-profit that produces the OSS Fraud Risk Management System providing knowledge and tools to solve financial crime and improve financial inclusion.
+
+![](/people/justus-color.png)
 
 ### JUSTUS ORTLEPP
 
@@ -26,7 +28,7 @@ At FNB he designed a mainframe-based graph database for customer networks as wel
 
 At Deloitte, Justus attended client projects for the South African Reserve Bank and the Bill & Melinda Gates Foundation from where he pursued full-time the design and development of an Open Source Software Financial Crime Risk Management solution focused on real-time transaction monitoring.
 
-![](/people/reica.png)
+![](/people/reica-color.png)
 
 ### REICA RAMPERSADH
 
