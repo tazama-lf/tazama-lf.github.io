@@ -531,8 +531,11 @@ h6 {
 }
 
 .header .site-navbar .menu .menu-item .menu-item-link {
-  display: flex;
-  height: 100%
+  display: block;
+  height: 100%;
+  min-height: 2em;
+  margin: 0 1em;
+  position: relative
 }
 
 .header .site-navbar .menu .menu-item .submenu {
