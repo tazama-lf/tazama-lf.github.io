@@ -101,7 +101,8 @@ button,
 [type=button],
 [type=reset],
 [type=submit] {
-  -webkit-appearance: button
+  -webkit-appearance: button;
+  appearance: button
 }
 
 button::-moz-focus-inner,
@@ -153,6 +154,7 @@ textarea {
 
 [type=search] {
   -webkit-appearance: textfield;
+  appearance: textfield;
   outline-offset: -2px
 }
 
@@ -282,7 +284,8 @@ button,
 [type=button],
 [type=reset],
 [type=submit] {
-  -webkit-appearance: button
+  -webkit-appearance: button;
+  appearance: button
 }
 
 button::-moz-focus-inner,
@@ -334,6 +337,7 @@ textarea {
 
 [type=search] {
   -webkit-appearance: textfield;
+  appearance: textfield;
   outline-offset: -2px
 }
 
@@ -641,6 +645,7 @@ h6 {
 .content-wrapper .toc a:hover,
 .content-wrapper .toc a:focus {
   color: #51be99;
+  border-bottom: 2px solid
 }
 
 .content-wrapper .toc ul,
