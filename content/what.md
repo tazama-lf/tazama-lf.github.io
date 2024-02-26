@@ -27,22 +27,12 @@ We work with your teams to position Tazama within your anti-Financial Crime fram
 
 - **Scalability:** Catering to Financial Services Providers of all sizes, from small providers to national payment switches.
 
-## Train on Self-owned Technology
+## Tazama training
 
 Our training programs are designed to empower your team with the knowledge and skills to effectively use our technology. Training includes:
 
-- **System Operation:** Hands-on guidance on navigating and operating the TMS.
+- **System Implementation and Operationalization:** Provide open-source resources for implementing Tazama Transaction Monitoring software in your organization.
+
+- **System Operation:** Provide open-source resources for navigating and operating the Tazama Transaction Monitoring software.
 
 - **Rule Management:** Insights into managing and updating detection rules and typologies.
-
-- **Incident Response:** Best practices for responding to and investigating alerts.
-
-## Train on Solutions
-
-Beyond our technology, we offer training on a range of solutions to enhance your fraud detection and prevention capabilities. This includes:
-
-- **Fraud Detection Techniques:** Latest methodologies and technologies in fraud detection.
-
-- **AML Strategies:** Comprehensive training on Anti-Money Laundering tactics and regulations.
-
-- **Operational Best Practices:** Enhancing your team's effectiveness in managing financial crime risk.
