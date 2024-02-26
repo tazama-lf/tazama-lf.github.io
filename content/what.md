@@ -2,38 +2,30 @@
 
 ![](/what_low.gif)
 
-At Tazama, we can help detect and prevent financial fraud and money laundering in a variety of ways. Our advocacy ranges from readiness assessments and advocacy to help you build robust Financial Risk Management Systems (FRMS). Below, you’ll find more about the help we can provide.
+At Tazama, we can help detect and prevent financial fraud and money laundering in a variety of ways. Our advocacy work aims to help you build robust Financial Risk Management Systems (FRMS). Below, you’ll find more about the help we can provide.
 
-## Readiness Assessment
+## Advocacy
 
-We help evaluate your current systems, policies, and procedures to identify gaps and areas for improvement. Our comprehensive assessment covers:
+Tazama is at the forefront of policy, and regulation. We work with policymakers, industry leaders, and Financial Services Providers to promote an environment that is effective in preventing and detecting activities that could involve money laundering, fraud, or other financial crimes:
 
-- **Financial Flows**: How to detect fraud and when.
+- **Financial Crime Compliance:** Helping your organization meet global and local standards.
 
-- **Policy Gaps**: Highlighting deficiencies in current fraud and AML policies.
+- **Best Practices:** Sharing industry-wide best practices.
 
-- **Recommendations**: We can provide actionable insights for enhancing your financial crime program..
-
-## Advocacy and Policy
-
-Tazama is at the forefront of policy, and regulation. We work with policymakers, industry leaders, and DFSPs to promote:
-
-- **Regulatory Compliance:** Ensuring your operations meet global and local regulatory standards.
-
-- **Best Practices:** Sharing industry-wide best practices for fraud prevention and AML.
-
-- **Policy Development:** Assisting in the formulation of robust policies to deter financial crimes.
+- **Policy Development:** Promotion of robust policy frameworks.
 
 ![](/compliance_med.png)
-## Work with you to Build FinCime Systems
+## Work with you to build anti-Financial Crime ecosystems
 
-How does our Transaction Monitoring Systems (TMS) fit into your organization’s entire FinCrime solution. Systems are designed to:
+We work with your teams to position Tazama within your anti-Financial Crime framework to improve the overall effectiveness of your Financial Crime prevention strategy:
 
-- **Detect and Prevent Fraud:** Implementing advanced algorithms and rules based on typologies to identify fraudulent transactions.
+- **Seamless integration:** Working with local and regional System Integrator partners to integrate Tazama into your existing financial crime framework.
 
-- **AML Compliance:** Ensuring your operations comply with Anti-Money Laundering regulations.
+- **Detect and Prevent Fraud:** Providing advanced algorithms and rules based on typologies to identify fraudulent transactions.
 
-- **Scalability:** Catering to DFSPs of all sizes, from small providers to national payment switches.
+- **AML Compliance:** Helping your organization comply with Anti-Money Laundering regulations.
+
+- **Scalability:** Catering to Financial Services Providers of all sizes, from small providers to national payment switches.
 
 ## Train on Self-owned Technology
 
