@@ -6,6 +6,6 @@ title: "Contact"
 
 ![](/tazama.png)
 
-Email us at [Email us at](mailto:info@tazama.org)
+Email us at [info@tazama.org](mailto:info@tazama.org)
 
-Start a discussion with us on [slack](slack.tazama.org)
+Start a discussion with us on [slack](http://slack.tazama.org/)
