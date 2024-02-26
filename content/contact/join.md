@@ -28,4 +28,4 @@ The Charitable Committee is where empathy meets action. This committee is a beac
 
 In a world clamoring for equitable technological advancements, the Tazama Project stands as a testament to what collective action can achieve. Each committee offers a unique pathway to contribute to a project with the noble aim of safeguarding instant payment systems against fraud, especially for the world's most vulnerable populations. Whether you're drawn to the technical innovation of the TSC, the real-world impact of the EUC, the philanthropic vision of the Charitable Committee, or the governance and integrity upheld by the Standards Body, your participation is a step towards a future where technology serves everyone, everywhere, with fairness and security. Join us in making this vision a reality.
 
-To get started now please visit the [Contact us page](/contact/).
+To get started now please visit the [Contact us page](/contact/contact/).
