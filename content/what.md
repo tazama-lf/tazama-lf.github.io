@@ -16,7 +16,8 @@ Tazama is at the forefront of policy, and regulation. We work with policymakers,
 
 - **Policy Development:** Promotion of robust policy frameworks.
 
-![](/compliance_med.png)
+![](/image/fraud-investigations.png)
+
 ## Work with you to build anti-Financial Crime ecosystems
 
 We work with your teams to position Tazama within your anti-Financial Crime framework to improve the overall effectiveness of your Financial Crime prevention strategy:
