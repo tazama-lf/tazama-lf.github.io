@@ -4,7 +4,7 @@ licenselink = "https://github.com/tazama-lf/blob/master/LICENSE"
 description = "website"
 homepage = "https://tazama.org/"
 demosite = "https://tazama.org/"
-tags = [""]
+tags = ["transaction monitoring", "fraud"]
 min_version = "0.20"
 
 [author]

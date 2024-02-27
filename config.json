@@ -34,39 +34,49 @@
       "menu": {
         "main": [
           {
-            "name": "Charter",
-            "url": "/charter/",
-            "weight": 30
-          },
-          {
-            "name": "Values",
-            "url": "/values",
-            "weight": 40
+            "name": "About",
+            "url": "/about",
+            "weight": 10
           },
           {
             "name": "Who we are",
             "url": "/people/",
-            "weight": 50
+            "weight": 40,
+            "parent":  "About"
           },
           {
             "name": "What we do",
             "url": "/what/",
-            "weight": 60
+            "weight": 50,
+            "parent":  "About"
           },
           {
             "name": "Who we work with",
             "url": "/partners/",
-            "weight": 70
+            "weight": 60,
+            "parent":  "About"
+          },
+          {
+            "name": "Values",
+            "url": "/values",
+            "weight": 70,
+            "parent":  "About"
+          },
+          {
+            "name": "Charter",
+            "url": "/charter/",
+            "weight": 80,
+            "parent":  "About"
           },
           {
             "name": "Products",
             "url": "/product/",
-            "weight":80
+            "weight":20
           },
           {
             "name": "Resources",
             "url": "/resources/",
-            "weight": 90
+            "weight": 30
           },
           {
             "name": "Contact",
@@ -105,7 +115,7 @@
   "params": {
     "rssFullContent": false,
     "customCSS": [
-      "center-img.css"
+      "tazama-custom.css"
     ],
     "author": {
       "name": "Tazama",
