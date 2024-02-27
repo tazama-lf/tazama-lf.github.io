@@ -1,3 +1,8 @@
+.header .logo-wrapper .logo {
+  font-size: 36px;
+  font-family: cursive, LiSu, sans-serif
+}
+
 img.center {
   display: block;
   margin: 1.0rem auto;
