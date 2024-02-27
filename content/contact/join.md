@@ -6,7 +6,7 @@ title: "Join us"
 
 ![](/tazama.png)
 
-Start a discussion with us on [slack](slack.tazama.org)
+Start a discussion with us on [slack](https://slack.tazama.org)
 
 # Join the Tazama Project Committees: A Call to Action
 
