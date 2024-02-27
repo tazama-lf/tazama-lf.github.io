@@ -4,7 +4,7 @@ title: "Products"
 
 ## Our products
 
-The [Level One Project](https://www.leveloneproject.org/) charged that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation, with other philanthropic partners, commissioned the Level One Project in 2014. Out of the Level One Project, the Bill & Melinda Gates Foundation commissioned the Tazama project in 2019 to meet the vision of a shared fraud service to make digital financial ecosystems safer to use. The first Tazama release was launched as an MVP in April 2022.
+The [Level One Project](https://www.leveloneproject.org/) charged that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to instil trust in these ecosystems. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation, with other philanthropic partners, commissioned the Level One Project in 2014. Out of the Level One Project, the Bill & Melinda Gates Foundation commissioned the Tazama project in 2019 to meet the vision of a shared fraud service to make digital financial ecosystems safer to use. The first Tazama release was launched as an MVP in April 2022.
 
 With our products you can stop fraud in real-time before it happens. With "real-time" we mean thousands of transactions per second as they happen and before money actually changes hands (or accounts, or devices).
 
