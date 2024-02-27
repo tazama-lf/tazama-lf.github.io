@@ -47,21 +47,21 @@ The Tazama software has a number of key components that have been selected and a
 - Channel Router and Setup Processor (CRSP)
 - Rules Processor
 - Typology Processor
-- Transaction Aggregator and Decision Processor (TADProc)
+- Transaction Aggregation and Decision Processor (TADProc)
 
 Read the documentation for more detail.
 
-![](/document2.png)[Documentation](https://github.com/frmscoe/docs/tree/main)
+[![Documentation](/image/document-button.png)](https://github.com/frmscoe/docs/tree/main)
 
 ## Typologies and advocacy
 
 ![](/phishing.png)
 
  **More than 280 typologies**    
- Curated from a project by Deloitte Africa for the Bill & Melida Gates Foundation
+ Curated from a project by Deloitte Africa for the Bill & Melinda Gates Foundation
 - ~30 Mainstream typologies provided as an example
-- Members and users have acces to them all and more
-- Coming soon, collaboration, shared experiences, a standards body for how to customise Tazama for your needs
+- Members and users have access to them all and more
+- Coming soon, collaboration, shared experiences, a standards body for how to customize Tazama for your needs
 
 **More than payments**
 Although we started in the payment space - we work about anywhere!
