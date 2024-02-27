@@ -4,8 +4,6 @@ title: "Partners"
 
 ## Partners
 
-![](/who_3.png)
-
 At Tazama, we collaborate with a diverse range of stakeholders, leveraging our collective strengths to create robust, scalable solutions for the detection and prevention of Financial Crime. Our partners include central banks, government ministries, regional economic communities, the private sector, and other key stakeholders. Here’s a closer look at our collaborative ecosystem.
 
 ## Central Banks and Government Ministries
@@ -39,4 +37,4 @@ Our network of Other Stakeholders encompasses non-governmental organizations (NG
 - **Advocacy and Awareness:** Support campaigns to raise public awareness about the risks of financial fraud and the importance of vigilance.
 - **Research and Development:** Collaborate on studies and projects to better understand financial crime trends and develop effective countermeasures.
 
-#### Through these partnerships, Tazama aims to create a broad and inclusive ecosystem where all stakeholders are equipped and committed to safeguarding the integrity of financial systems worldwide.
+##### Through these partnerships, Tazama aims to create a broad and inclusive ecosystem where all stakeholders are equipped and committed to safeguarding the integrity of financial systems worldwide.

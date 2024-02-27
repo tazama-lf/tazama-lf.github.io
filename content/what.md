@@ -1,5 +1,5 @@
 ---
-title: "What-we-do"
+title: "What we do"
 ---
 
 ## What we do

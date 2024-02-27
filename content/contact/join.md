@@ -2,9 +2,7 @@
 title: "Join us"
 ---
 
-## Some of our Groups at
-
-![](/tazama.png)
+## Some of our governing bodies
 
 Start a discussion with us on [slack](https://slack.tazama.org)
 
@@ -22,7 +20,7 @@ The End User Committee (EUC) offers a unique opportunity for those who stand at 
 
 ## Charitable Committee
 
-The Charitable Committee is where empathy meets action. This committee is a beacon for organizations, nonprofits, and individuals dedicated to leveraging technology for charitable purposes. By joining, you become part of a compassionate community focused on using the Tazama Project to protect and empower the most vulnerable in society. Your insights and contributions will help guide the project to ensure it remains aligned with its core mission of social good, pushing the boundaries of what technology can do for humanity. Whether you're part of a charitable organization, a government agency, or simply someone who believes in the power of tech for good, your voice can help shape initiatives that change lives.
+The Charitable Committee is where empathy meets action. This committee is a beacon for organizations, non-profits, and individuals dedicated to leveraging technology for charitable purposes. By joining, you become part of a compassionate community focused on using the Tazama Project to protect and empower the most vulnerable in society. Your insights and contributions will help guide the project to ensure it remains aligned with its core mission of social good, pushing the boundaries of what technology can do for humanity. Whether you're part of a charitable organization, a government agency, or simply someone who believes in the power of tech for good, your voice can help shape initiatives that change lives.
 
 ## Why Join?
 
