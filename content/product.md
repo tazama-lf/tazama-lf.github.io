@@ -30,20 +30,22 @@ Read the product documentation for more detail.
 
 ## Typologies and advocacy
 
-### A library of more than 280 typologies**
+### A library of more than 280 typologies
+
 Curated from research conducted by Deloitte South Africa for the Bill & Melinda Gates Foundation on fraud and money laundering in instant payments ecosystems
 - 30 pre-fabricated typologies are packaged into the product to jump-start your detection capability
 - Members and users have access to all existing typology information
 - Coming soon: collaboration, shared experiences, and a standards body for how to customize Tazama for your needs and to keep pace with criminal trends
 
-**More than payments**
+### More than payments
 Although we started out in the instant payments space, Tazama works anywhere!
 - Insurance
 - Supply Chain
 - Ethics
 - etc.
 
-**Our advocacy**
+### Our advocacy
+
 We will help you:
 - Use,
 - Enhance,
@@ -51,4 +53,4 @@ We will help you:
 - Embed
 our solution.
 
-Our solution partners can help you integrate Tazama into your existing anti-financial crime framework for a complete compliance solution!
+##### Our solution partners can help you integrate Tazama into your existing anti-financial crime framework for a complete compliance solution!
