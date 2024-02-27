@@ -17,5 +17,5 @@ You can browse the pages below to learn more about us and the work we do.
  - [Who we are](/people)
  - [What we do](/what)
  - [Who we work with](/partners)
- - [Our Values](/values)
+ - [Our values](/values)
  - [Our charter](/charter)
