@@ -4,8 +4,6 @@ title: "Values"
 
 ## Our Core Values
 
-![](/inclusion_cloud.jpg)
-
 At Tazama, we are driven by a mission to create a safer, more inclusive financial ecosystem. Funded by the Bill & Melinda Gates Foundation, our open-source software transaction monitoring solution is at the forefront of fraud detection. Our work is underpinned by four foundational values: **Trust, Equity, Knowledge, and Collaboration**.
 
 These values guide every aspect of our operations and reflect our commitment to protecting individuals, businesses, and economies from financial scams and fraud.
