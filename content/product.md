@@ -51,7 +51,7 @@ The Tazama software has a number of key components that have been selected and a
 
 Read the documentation for more detail.
 
-[![Documentation](/image/document-button.png)](https://github.com/frmscoe/docs/tree/main)
+[![Documentation](/image/documents-button.png)](https://github.com/frmscoe/docs/tree/main)
 
 ## Typologies and advocacy
 
