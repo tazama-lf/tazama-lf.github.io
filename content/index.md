@@ -3,7 +3,7 @@ title: "Home"
 description: "Tazama"
 ---
 
-![](/hacker3.png)
+![](/image/title-banner.png)
 
 ### Open-Source Transaction Monitoring Software
 
