@@ -1,5 +1,5 @@
 ---
-title: "calendar"
+title: "Calendar"
 ---
 
 ## Public Calendar

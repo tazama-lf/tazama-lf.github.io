@@ -1,3 +1,7 @@
+---
+title: "What-we-do"
+---
+
 ## What we do
 
 ![](/what_low.gif)

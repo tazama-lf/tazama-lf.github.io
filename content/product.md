@@ -1,3 +1,7 @@
+---
+title: "Products"
+---
+
 ## Our products
 
 ![](/bad_guy4.png)
