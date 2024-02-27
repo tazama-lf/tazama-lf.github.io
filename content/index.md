@@ -3,8 +3,6 @@ title: "Home"
 description: "Tazama"
 ---
 
-!([])()
-
 [![Get started](/image/title-banner.png)](https://github.com/frmscoe/docs)
 
 ### Features
