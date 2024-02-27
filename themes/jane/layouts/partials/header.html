@@ -12,7 +12,9 @@
     {{ $navWidth = "max-w-full" -}}
   {{ end -}}
 {{- end -}}
-<div>
+
+  <!-- Logo as the first menu item -->
+  <div>
   <a href="{{ $logoLink | relLangURL }}" class="logo">
     {{ if .Site.Params.logoTitle }}
       {{ .Site.Params.logoTitle | safeHTML }}
@@ -23,7 +25,6 @@
 </div>
 
 <nav class="site-navbar {{ $navWidth }}">
-  <!-- Logo as the first menu item -->
   <ul id="menu" class="menu">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
