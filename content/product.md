@@ -23,12 +23,12 @@ With our products can stop fraud in real time before it happens.  By real time, 
  **Rules-based**  
  Designed with fledgling anti-fraud operations in mind, transactions are evaluated by a variety or rule processors that organizes detected behaviour into typologies
 - Rules are discrete code modules that perform a single evaluation task
-- Rules are parameterised via configuration files external to the rule code
+- Rules are parameterized via configuration files external to the rule code
 - Rules deliver clear and explainable assessments for the behaviour witnessed in a transaction
 - Rules can be enhanced with complex scripting
 
  **Configurable**  
-- Authorised users can configure detection behaviour without changing the processor code
+- Authorized users can configure detection behaviour without changing the processor code
 - Rule and typology are configurable via configuration files located outside the rule processor code
 
  **API-driven**  
@@ -51,7 +51,7 @@ The Tazama software has a number of key components that have been selected and a
 
 Read the documentation for more detail.
 
-[![Documentation](/image/documents-button.png)](https://github.com/frmscoe/docs/tree/main)
+[![Documentation](/image/documents-button.png =100x)](https://github.com/frmscoe/docs/tree/main)
 
 ## Typologies and advocacy
 
