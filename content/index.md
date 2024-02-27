@@ -3,10 +3,18 @@ title: "Home"
 description: "Tazama"
 ---
 
-![](/image/title-banner.png)
+!([])()
 
-### Open-Source Transaction Monitoring Software
+[![Get started](/image/title-banner.png)](https://github.com/frmscoe/docs)
 
-**Building trust in your financial ecosystem!**
+### Features
 
-![](/document2.png)[Documentation](https://github.com/frmscoe/docs/tree/main)
+![](/image/features-banner.png)
+
+<hr>
+
+### How it works
+
+![](/image/how-it-works-banner.png)
+
+
