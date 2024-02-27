@@ -36,7 +36,7 @@
           {
             "name": "About",
             "url": "/about",
-            "weight": 10
+            "weight": 20
           },
           {
             "name": "Who we are",
@@ -71,7 +71,7 @@
           {
             "name": "Products",
             "url": "/product/",
-            "weight":20
+            "weight":10
           },
           {
             "name": "Resources",
