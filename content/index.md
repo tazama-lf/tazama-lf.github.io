@@ -14,5 +14,3 @@ description: "Tazama"
 ### How it works
 
 ![](/image/how-it-works-banner.png)
-
-
