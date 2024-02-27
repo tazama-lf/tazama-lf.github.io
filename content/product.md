@@ -4,77 +4,51 @@ title: "Products"
 
 ## Our products
 
-![](/bad_guy4.png)
+The [Level One Project](https://www.leveloneproject.org/) charged that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation, with other philanthropic partners, commissioned the Level One Project in 2014. Out of the Level One Project, the Bill & Melinda Gates Foundation commissioned the Tazama project in 2019 to meet the vision of a shared fraud service to make digital financial ecosystems safer to use. The first Tazama release was launched as an MVP in April 2022.
 
-The level 1 principle told us that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to make them trusted. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation started this project as an MVP four years ago now.  It really started much earlier with a bunch of research into what was needed, what all stakeholders wanted.
+With our products you can stop fraud in real-time before it happens. With "real-time" we mean thousands of transactions per second as they happen and before money actually changes hands (or accounts, or devices).
 
-With our products can stop fraud in real time before it happens.  By real time, we mean thousands of transactions per second, not just faster than batch.  Many systems do analytics and find consortiums of people with ill intent at work within a bank or across organizations.  This is extremely valuable and helps regulators and police get these bad actors out of the system, but the financial damage to the person who was defrauded already happened.  The damage is done, to all stakeholders.
+Alternative and in-house systems most often detect criminal behaviour through analytics and are able to find bad actors at work within a bank or across organizations. This is extremely valuable and helps regulators and police get these criminals out of the system, but the financial damage to the person who was defrauded already happened. Their money is gone. These losses affect the most vulnerable members in our financial ecosystems the most severely, and it is specifically these people that we are tasked to protect.
 
 ## Tazama Transaction Monitoring System
 
-![](/design.jpg)
-![](/event3.png)
+Tazama is an Open Source Real-Time Transaction Monitoring Software built to support any Financial Services Provider (FSP) that requires Transaction Monitoring for Fraud and Money Laundering detection. Whether that FSP is a small provider running one or 2 transactions per day or a national payment switch running thousands of transactions per second. With Tazama you can implement simple or complex rules, implement Fraud Detection controls or support Anti-Money Laundering activities.
 
- **Real-time**    
- Transaction monitoring is performed in real-time
-- Evaluate transactions before they are completed
-- Prevent fraudulent transactions without degrading performance
+![](/image/how-it-works-banner.png)
 
- **Rules-based**  
- Designed with fledgling anti-fraud operations in mind, transactions are evaluated by a variety or rule processors that organizes detected behaviour into typologies
-- Rules are discrete code modules that perform a single evaluation task
-- Rules are parameterized via configuration files external to the rule code
-- Rules deliver clear and explainable assessments for the behaviour witnessed in a transaction
-- Rules can be enhanced with complex scripting
+Tazama is designed to ingest transaction data in real-time through its Transaction Monitoring Service API. Data can be received from multiple participants in a financial ecosystem, including customer-facing financial service providers such as banks, remitters or mobile money operators, and also the intermediaries involved in facilitates transfers and payments across the ecosystem, such as clearing houses or payment switches. The Tazama API is designed to be ISO20022 compliant, but non-ISO20022 systems can still communicate with the platform via a Payment Platform Adapter that will transform message traffic into an ISO20022 equivalent.
 
- **Configurable**  
-- Authorized users can configure detection behaviour without changing the processor code
-- Rule and typology are configurable via configuration files located outside the rule processor code
+Ingested transactions are stored in the Tazama database from where it will be used to support real-time modelling of participant behaviour through a number of rule processors that will evaluate the transaction and its participants to look for suspicious behaviour. Rule results will be summarized into fraud and money-laundering scenarios, called typologies.
 
- **API-driven**  
-- Interaction with Tazama8 is via RESTful APIs
-- ISO20022 messages are submitted as JSON-formatted objects
-- Responses are returned via API once the evaluation is complete
-- Evaluation data and message history can be retrieved via API by your in-house CMS
+If the rules and typologies show evidence of suspicious behaviour, an investigation alert will be issued to an external case management system and in extreme cases, the transaction can also be blocked to prevent the transfer of funds and financial loss by the intended victim.
 
-## Core Components
+![](/image/features-banner.png)
 
-![](/tazama-core-components.png)
-
-The Tazama software has a number of key components that have been selected and architected to allow maximum flexibility, ensure data protection, and reduced operational costs for high performance at scale. They are the:
-
-- Transaction Monitoring Service API
-- Channel Router and Setup Processor (CRSP)
-- Rules Processor
-- Typology Processor
-- Transaction Aggregation and Decision Processor (TADProc)
-
-Read the documentation for more detail.
+Read the product documentation for more detail.
 
 [![Documentation](/image/documents-button.png)](https://github.com/frmscoe/docs)
 
 ## Typologies and advocacy
 
-![](/phishing.png)
-
- **More than 280 typologies**    
- Curated from a project by Deloitte Africa for the Bill & Melinda Gates Foundation
-- ~30 Mainstream typologies provided as an example
-- Members and users have access to them all and more
-- Coming soon, collaboration, shared experiences, a standards body for how to customize Tazama for your needs
+### A library of more than 280 typologies**
+Curated from research conducted by Deloitte South Africa for the Bill & Melinda Gates Foundation on fraud and money laundering in instant payments ecosystems
+- 30 pre-fabricated typologies are packaged into the product to jump-start your detection capability
+- Members and users have access to all existing typology information
+- Coming soon: collaboration, shared experiences, and a standards body for how to customize Tazama for your needs and to keep pace with criminal trends
 
 **More than payments**
-Although we started in the payment space - we work about anywhere!
+Although we started out in the instant payments space, Tazama works anywhere!
 - Insurance
 - Supply Chain
 - Ethics
 - etc.
 
 **Our advocacy**
-We willl help you:
-- Use
-- Enhance
-- Extend
+We will help you:
+- Use,
+- Enhance,
+- Extend, and
 - Embed
-- Our solution
-- We can help you with how we fit into a complete compliance solutiion
+our solution.
+
+Our solution partners can help you integrate Tazama into your existing anti-financial crime framework for a complete compliance solution!
