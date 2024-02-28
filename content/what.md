@@ -4,7 +4,7 @@ title: "What we do"
 
 ## What we do
 
-At Tazama, we can help detect and prevent financial fraud and money laundering in a variety of ways. Our advocacy work aims to help you build robust Financial Risk Management Systems (FRMS). Below, you’ll find more about the help we can provide.
+At Tazama, we can help detect and prevent financial fraud and money laundering in a variety of ways. Our advocacy work aims to help you build robust Financial Risk Management Systems (FRMS) targeting financial systems in regions that don't have the resources. Below, you’ll find more about the help we can provide.
 
 ## Advocacy
 
