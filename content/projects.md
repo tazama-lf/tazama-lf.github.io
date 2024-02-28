@@ -1,12 +1,12 @@
 ---
-title: "Products"
+title: "Projects"
 ---
 
-## Our products
+## Our Projects
 
 The [Level One Project](https://www.leveloneproject.org/) charged that not only do we have to make inclusive instant payment systems simple, easy, fair, and equitable, but we also need to instil trust in these ecosystems. We must ensure that people's money is safe. The Bill & Melinda Gates Foundation, with other philanthropic partners, commissioned the Level One Project in 2014. Out of the Level One Project, the Bill & Melinda Gates Foundation commissioned the Tazama project in 2019 to meet the vision of a shared fraud service to make digital financial ecosystems safer to use. The first Tazama release was launched as an MVP in April 2022.
 
-With our products you can stop fraud in real-time before it happens. With "real-time" we mean thousands of transactions per second as they happen and before money actually changes hands (or accounts, or devices).
+Our products you can stop fraud in real-time before it happens. With "real-time" we mean thousands of transactions per second as they happen and before money actually changes hands (or accounts, or devices).
 
 Alternative and in-house systems most often detect criminal behaviour through analytics and are able to find bad actors at work within a bank or across organizations. This is extremely valuable and helps regulators and police get these criminals out of the system, but the financial damage to the person who was defrauded already happened. Their money is gone. These losses affect the most vulnerable members in our financial ecosystems the most severely, and it is specifically these people that we are tasked to protect.
 
@@ -24,7 +24,7 @@ If the rules and typologies show evidence of suspicious behaviour, an investigat
 
 ![](/image/features-banner.png)
 
-Read the product documentation for more detail.
+Read the project documentation for more detail.
 
 [![Documentation](/image/documents-button.png)](https://github.com/frmscoe/docs)
 
@@ -33,12 +33,15 @@ Read the product documentation for more detail.
 ### A library of more than 280 typologies
 
 Curated from research conducted by Deloitte South Africa for the Bill & Melinda Gates Foundation on fraud and money laundering in instant payments ecosystems
-- 30 pre-fabricated typologies are packaged into the product to jump-start your detection capability
+
+- 30 pre-fabricated typologies are packaged into the project to jump-start your detection capability
 - Members and users have access to all existing typology information
 - Coming soon: collaboration, shared experiences, and a standards body for how to customize Tazama for your needs and to keep pace with criminal trends
 
 ### More than payments
+
 Although we started out in the instant payments space, Tazama works anywhere!
+
 - Insurance
 - Supply Chain
 - Ethics
@@ -47,10 +50,11 @@ Although we started out in the instant payments space, Tazama works anywhere!
 ### Our advocacy
 
 We will help you:
+
 - Use,
 - Enhance,
 - Extend, and
 - Embed
-our solution.
+  our solution.
 
 ##### Our solution partners can help you integrate Tazama into your existing anti-financial crime framework for a complete compliance solution!

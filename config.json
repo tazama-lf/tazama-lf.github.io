@@ -69,8 +69,8 @@
             "parent":  "About"
           },
           {
-            "name": "Products",
-            "url": "/product/",
+            "name": "Projects",
+            "url": "/projects/",
             "weight":10
           },
           {
