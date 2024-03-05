@@ -82,9 +82,9 @@ d. In the event a vote cannot be resolved, any voting member of the TSC or EUC, 
 
 ## 6. Compliance with Policies
 
-a. Contributors will comply with the policies of LF Charities as may be adopted and amended by LF Charities, including, without limitation the policies listed at [web site tbd].
+a. Contributors will comply with the policies of LF Charities as may be adopted and amended by LF Charities, including, without limitation the policies listed at <https://lf-charities.org/policies/>.
 
-b. The TSC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by LF Charities. In the event that a Project-specific CoC has not been approved, the LF Charities Code of Conduct listed at https://lf-charities.dev/policies/ will apply for all Collaborators in the Project.
+b. The TSC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by LF Charities. In the event that a Project-specific CoC has not been approved, the LF Charities Code of Conduct listed at <https://lf-charities.org/policies/> will apply for all Collaborators in the Project.
 
 c. When amending or adopting any policy applicable to the Project, LF Charities will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Charities, any such amendment is effective upon publication on LF Project’s web site.
 
