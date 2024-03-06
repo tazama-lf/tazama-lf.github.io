@@ -69,6 +69,11 @@
             "parent":  "About"
           },
           {
+            "name": "Code of Contact",
+            "url": "/coc/",
+            "weight": 90,
+            "parent":  "About"
+          },          {
             "name": "Projects",
             "url": "/projects/",
             "weight":10
