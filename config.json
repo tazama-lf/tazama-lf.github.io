@@ -69,7 +69,7 @@
             "parent":  "About"
           },
           {
-            "name": "Code of Contact",
+            "name": "Code of Conduct",
             "url": "/coc/",
             "weight": 90,
             "parent":  "About"
