@@ -1,6 +1,7 @@
 ---
 title: "Calendar"
 ---
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZL0S57CC7"></script>
 <script>
@@ -17,6 +18,24 @@ title: "Calendar"
 
 Here are our open meetings. We would love to see you online!
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Africa%2FJohannesburg&bgcolor=%23ffffff&title=Tazama&src=Y18wZjY3MmU3MzNhZjVlYTI1OTk2NDUyMGNjNWNmNzg1NjUwMzNjNTFhODM0M2JhYTgzYjY0MjRiOGRjNTE3ZmEwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  .full-width-iframe {
+    position: absolute;
+    top: 50px; /* Adjust based on the height of your menu */
+    left: 0;
+    width: 100%;
+    height: calc(100% - 50px); /* Adjust based on the height of your menu */
+    border: none;
+  }
+</style>
+
+<iframe src="https://zoom-lfx.platform.linuxfoundation.org/meetings/tazama" class="full-width-iframe"></iframe>
 
 If you are unable to view the calendar, please [contact us](/contact/contact).
