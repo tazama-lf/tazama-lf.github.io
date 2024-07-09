@@ -94,7 +94,12 @@
             "url": "/contact/Calendar",
             "weight": 100,
             "parent":  "Contact"
-          }
+          },
+          {
+            "name": "Media",
+            "url": "/media/media",
+            "weight": 110
+          }         
         ]
       }
     }
