@@ -73,7 +73,14 @@
             "url": "/coc/",
             "weight": 90,
             "parent":  "About"
-          },          {
+          },    
+          {
+            "name": "Roadmap",
+            "url": "/roadmap/",
+            "weight": 90,
+            "parent":  "About"
+          },         
+          {
             "name": "Projects",
             "url": "/projects/",
             "weight":10
