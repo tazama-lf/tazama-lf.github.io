@@ -4,7 +4,7 @@ date: 2023-11-29
 draft: false
 ---
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZL0S57CC7"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=G-PZL0S57CC7" integrity="sha384-VHjxUTx/hhzdIOp4B+1uudBz9pmgepYfOpcEc3Qspl5M1gW6rnWMFCEOMXQ3z8JT" crossorigin="anonymous"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
