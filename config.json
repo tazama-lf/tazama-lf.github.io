@@ -17,6 +17,7 @@
       "params": {
         "description": "Tazama",
         "dateFormatToUse": "Jan 2, 2024",
+        "CSP": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;",
         "navbar": {
           "displayTitle": false,
           "displayLogo": true,
