@@ -6,8 +6,18 @@
 >
   <head>
     <meta http-equiv="X-Content-Type-Options" content="nosniff">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; object-src 'none'; style-src 'self'; img-src 'self'; connect-src 'self'; font-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';">
-    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; 
+        script-src 'self' https://www.googletagmanager.com 'sha384-VHjxUTx/hhzdIOp4B+1uudBz9pmgepYfOpcEc3Qspl5M1gW6rnWMFCEOMXQ3z8JT'; 
+        object-src 'none'; 
+        style-src 'self' 'unsafe-inline'; 
+        img-src 'self' data:; 
+        connect-src 'self' https://www.googletagmanager.com; 
+        font-src 'self'; 
+        base-uri 'self'; 
+        form-action 'self'; 
+        frame-ancestors 'none'; 
+        frame-src 'self' https://zoom-lfx.platform.linuxfoundation.org;">
+       <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>
       {{- block "title" . -}}
