@@ -14,15 +14,17 @@ title: "Contact"
 
 ## Recent Media
 
-- [Linux Foundation Launches Tazama: A Revolutionary Open Source Solution for Real-Time Fraud Management](https://www.linuxfoundation.org/press/linux-foundation-launches-tazama-for-real-time-fraud-management)
+- 9 September 2024 [Tazama is Recognitized as a Digital Public Good](../dpg)
 
-- [How a new fraud detection software can help millions more people bank safely](https://www.gatesfoundation.org/ideas/articles/open-source-financial-inclusion-tazama)
+- 11 March 24 [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
 
-- [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
+- 6 March 2024 [Free-to-use know your customer alternative to Okta - Tazama](https://techhq.com/2024/03/open-source-kyc-payment-verification-aml/)
 
-- [Linux Foundation launches Tazama to curb fraud](https://itweb.africa/content/lLn14MmQp8yMJ6Aa)
+- 29 February 2024 [Linux Foundation launches Tazama to curb fraud](https://itweb.africa/content/lLn14MmQp8yMJ6Aa)
 
-- [Free-to-use know your customer alternative to Okta - Tazama](https://techhq.com/2024/03/open-source-kyc-payment-verification-aml/)
+- 28 February 2024 [Linux Foundation Launches Tazama: A Revolutionary Open Source Solution for Real-Time Fraud Management](https://www.linuxfoundation.org/press/linux-foundation-launches-tazama-for-real-time-fraud-management)
+
+- 28 February 2024 [How a new fraud detection software can help millions more people bank safely](https://www.gatesfoundation.org/ideas/articles/open-source-financial-inclusion-tazama)
 
 Email us at [info@tazama.org](mailto:info@tazama.org)
 
