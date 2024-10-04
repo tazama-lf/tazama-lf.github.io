@@ -1,5 +1,5 @@
 
-![Tazama+DPG Logo](https://www.linuxfoundation.org/hs-fs/hubfs/Tazama%20image.jpg?width=557&height=166&name=Tazama%20image.jpg)
+![Tazama+DPG Logo](/image/Tazama+DPG.jpg)
 # Tazama Gains Prestigious Recognition as a Digital Public Good from the Digital Public Goods Alliance. 
 9 September,2024
 
