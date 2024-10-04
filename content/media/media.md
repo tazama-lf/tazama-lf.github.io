@@ -14,7 +14,7 @@ title: "Contact"
 
 ## Recent Media
 
-- 9 September 2024 [Tazama is Recognitized as a Digital Public Good](https://tazama.org/media/dpg.md)
+- 9 September 2024 [Tazama is Recognitized as a Digital Public Good](../dpg)
 
 - 11 March 24 [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
 
