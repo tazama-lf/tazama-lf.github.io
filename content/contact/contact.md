@@ -13,6 +13,6 @@ title: "Contact"
 
 ## Contact us
 
-Email us at [info@tazama.org](mailto:info@tazama.org)
+Email us at [support@tazama.org](mailto:insupportfo@tazama.org)
 
-Start a discussion with us on [Slack](http://slack.tazama.org/)
+Start a discussion with us on [Slack](https://slack.tazama.org/)
