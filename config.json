@@ -129,9 +129,8 @@
     },
     "social": {
       "slack": "https://www.slack.tazama.org",
-      "email": "mailto:operations@tazama.org",
+      "email": "mailto:support@tazama.org",
       "github": "https://github.com/tazama-lf",
-      "twitter": "https://twitter.com/TazamaOrg",
       "linkedin": "https://www.linkedin.com/company/tazama-org/"
     },
     "customFooter": "<a target=\"_blank\" href=\"https://www.linuxfoundation.org/legal/privacy-policy\">Privacy policy</a>",
