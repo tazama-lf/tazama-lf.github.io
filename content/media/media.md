@@ -14,6 +14,8 @@ title: "Contact"
 
 ## Recent Media
 
+- 14 November 2024 [International Fraud Awareness Week 2024](../fraud-week-2024)
+
 - 9 September 2024 [Tazama is Recognitized as a Digital Public Good](../dpg)
 
 - 11 March 24 [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
