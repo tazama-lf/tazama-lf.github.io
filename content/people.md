@@ -35,7 +35,7 @@ Reica has over 20 years' experience in Regulatory and Financial Compliance Manag
 
 ![Sandy Labuschagne ](/people/sandy-card.png)
 
-Sandy brings a wealth of experience across a variety of areas including Project and program management, business analysis, full lifecycle development and implementation, financial system applications and data management. She has a BCom degree in Business Computer Science and Business Finance from the University of KwaZulu-Natal and a BCom(Honours)in Financial Management from the University of South Africa.
+With over 25 years in the financial services industry, Sandy specializes in delivering transformative projects and systems that drive innovation and operational excellence. Her expertise spans project and program management, business analysis, and data management. She has a proven track record of leading system implementation projects, implementing banking products, and mentoring diverse teams. Career highlights include establishing a greenfield bank, implementing a credit systems architecture to ensure Basel 2 compliance and driving strategic initiatives for organizations like Deloitte and Rand Merchant Bank.
 
 ![Scott Businge ](/people/scott-card.png)
 
