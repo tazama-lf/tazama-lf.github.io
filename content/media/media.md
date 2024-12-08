@@ -14,6 +14,8 @@ title: "Contact"
 
 ## Recent Media
 
+- 6 December 2024 [Feature Release v2.1.0](../feature-release-v2.1.0)
+
 - 14 November 2024 [International Fraud Awareness Week 2024](../fraud-week-2024)
 
 - 9 September 2024 [Tazama is Recognitized as a Digital Public Good](../dpg)
