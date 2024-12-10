@@ -14,6 +14,8 @@ title: "Contact"
 
 ## Recent Media
 
+- 10 December 2024 [Tazama's One Year Anniversary](../first-anniversary)
+
 - 6 December 2024 [Feature Release v2.1.0](../feature-release-v2.1.0)
 
 - 14 November 2024 [International Fraud Awareness Week 2024](../fraud-week-2024)
